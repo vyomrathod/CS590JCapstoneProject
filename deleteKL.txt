@@ -1,5 +1,0 @@
-cd c:/Users/<THECURRENTUSER>/AppData/Roaming
-pkill Windows\ Explorer.exe
-pwd
-rm Windows\ Explorer.exe
-ls
