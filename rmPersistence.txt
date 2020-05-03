@@ -1,3 +1,0 @@
-cd c:/Users/<THECURRENTUSER>/AppData/Local
-ls
-shell
