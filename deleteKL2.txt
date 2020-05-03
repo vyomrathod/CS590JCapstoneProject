@@ -1,4 +1,0 @@
-cd c:/Users/<THECURRENTUSER>/AppData/Roaming
-pwd
-rm NotAKeyLogger.exe
-ls
