@@ -1,6 +1,7 @@
 # ZLogger
 
 Remote persistent keylogger for Windows and Linux.
+From https://github.com/z00z/ZLogger
 
 Features:
 - Logs keys pressed on keyboard
